@@ -13,4 +13,4 @@ Pulse - Coupled Network:
 2. Shorter refractory period: regulated by a parameter in the model
 3. A high ratio of excitatory neurons to inhibitory neurons
  
-_This code was co-created with Christina Bruckmann & Jens Dudink_
+_This code was co-created with Christina Bruckmann & Jens Dudink._
